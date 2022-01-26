@@ -1,0 +1,32 @@
+print()
+input()
+eval()
+* + - / // **
+def my_function():
+my_function()
+Special characters:
+\n = print on next line
+\t = prints a uniform tab
+end = "yadda yadda" prints things on the same line
+name, age = eval(input("hello!\nenter your name and age!"))
+print("good to see you",name,"you are",age)
+loops = run same bit of code over and over
+for loops = "definite" = once it gets to this point it knows how many times it'll loop
+for variable_here in sequence:
+    <body>
+Everything in body loops as many times as you want
+sequence = [1, 2, 3]
+each time the variable goes through the sequence it equals the value of the sequence
+range() = a sequence of numbers of which you can specify which numbers you want.
+range(10) = produces numbers 0-1
+// = integer division
+type() = check the type of a data type
+% =modular arithmetic: gives remainders of division ex: 5 % 3 = remainder of 2
+abs = finds the absolute value of a variable
+math.py = use import.math to load module
+use math. to list each math function you can use in a module
+range(1, 10) = starts range at 1 ends it at 10
+range(3, 10, 2) = (start, stop, step) step = count by number
+range(10, 3, -1) = count from ten down to 3
+accumulator pattern : accumulates results
+
