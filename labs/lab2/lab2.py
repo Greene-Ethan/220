@@ -2,7 +2,7 @@
 Name: Ethan Greene
 Lab2.py
 
-Problem: A computing program to figure out the monthly interest rates on credit cards.
+Problem: A python program that computes arithmetics
 
 Certification of Authenticity:
 I certify that this assignment is entirely my own work.
