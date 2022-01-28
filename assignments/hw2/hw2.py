@@ -2,7 +2,7 @@
 Name: Ethan Greene
 hw2.py
 
-Problem: Using python to facilitate solving math equations
+Problem: Using python to facilitate solving math equations.
 
 Certification of Authenticity:
 I certify that this assignment is entirely my own work.
