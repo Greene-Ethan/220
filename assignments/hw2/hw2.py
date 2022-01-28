@@ -30,7 +30,6 @@ def multiplication_table():
             print(j, end ='\t')
 
 
-
 def triangle_area():
     side_a = eval(input("Enter side a:"))
     side_b = eval(input("Enter side b:"))
@@ -47,10 +46,9 @@ def sum_squares():
     squared_sum = 0
     upper_bound = upper_bound + 1
     for i in range(lower_bound, upper_bound):
-        my_square = i ** 2
+        my_square = i * i
         squared_sum = squared_sum + my_square
     print(squared_sum)
-
 
 
 

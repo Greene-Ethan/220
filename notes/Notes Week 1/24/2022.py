@@ -27,10 +27,13 @@ my_sum = 0
 for i in range(101):
     my_sum = my_sum + i
 print(my_sum)
-"""
 
 user_input = eval(input("What value would you like?"))
 fact = 1
 for i in range(user_input, 0, -1):
     fact = fact * i
 print(fact)
+"""
+
+
+
