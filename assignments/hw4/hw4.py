@@ -54,7 +54,7 @@ def rectangle():
     win = GraphWin('Rectangle', 500,500)
     win.setCoords(0,0,10,10)
     close_inst = Text(Point(5,5),"click to close")
-    peri_box = Text(Point(5, 1), "Click twice to draw a rectangle")
+    peri_box = Text(Point(5, 1), "Perimeter =")
     peri_box.draw(win)
     area_box = Text(Point(5,1.5),"Area = ")
     area_box.draw(win)
@@ -75,7 +75,7 @@ def rectangle():
 
     close_inst.draw(win)
     win.getMouse()
-
+rectangle()
 
 def circle():
     win = GraphWin('Circle',700,700)
