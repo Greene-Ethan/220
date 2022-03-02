@@ -1,3 +1,12 @@
+"""
+Name: Ethan Greene
+Lab7.py
+
+Problem: Creating a grade calculator that deals with uncertain values
+
+Certification of Authenticity:
+I certify that this assignment is entirely my own work.
+"""
 def weighted_average(in_file_name, out_file_name):
     open_file = open(in_file_name,"r")
     write_file = open(out_file_name,"w")
