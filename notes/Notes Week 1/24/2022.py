@@ -33,7 +33,22 @@ fact = 1
 for i in range(user_input, 0, -1):
     fact = fact * i
 print(fact)
+
+import math
+variable_a = eval(input("What's the value of a?"))
+variable_b = eval(input("What's the value of b?"))
+variable_c = eval(input("What's the value of c?"))
+
+numbers = math.sqrt((variable_b ** 2) - 4 * variable_a * variable_b)
+negative_answer = (-variable_b - numbers) / (2 * variable_a)
+positive_answer = (-variable_b + numbers) / (2 * variable_a)
+print("x =",negative_answer,",",positive_answer)
 """
-
-
+int()
+age = 3.5
+print(type(age))
+int_age = int(age)
+float(3)
+stringy = "3"
+stringy_2 = int(age)
 

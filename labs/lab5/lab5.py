@@ -45,6 +45,7 @@ def triangle():
     win.close()
 
 
+
 def color_shape():
     '''Create code to allow a user to color a shape by entering rgb amounts'''
 

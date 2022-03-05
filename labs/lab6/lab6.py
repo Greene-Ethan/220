@@ -71,5 +71,4 @@ def vigenere():
 
     win.getMouse()
     win.close()
-
 vigenere()

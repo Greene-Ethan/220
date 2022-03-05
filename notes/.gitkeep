@@ -30,3 +30,81 @@ range(3, 10, 2) = (start, stop, step) step = count by number
 range(10, 3, -1) = count from ten down to 3
 accumulator pattern : accumulates results
 
+CHAPTER 4:
+from graphics import Point, Graphwin, Circle
+Point(x,y) = set a point on a graph
+Graphwin(x,y) = set a window that size
+circle(Point(x,y),radius) = draw a circle
+.draw = draw it
+.move(x,y)
+.getCenter
+.getX()
+.getCenter().getX()
+.clone
+.getMouse(x,y)
+.setCoords(0,0,10,10)
+Text(point,message)
+.setText(message)
+
+CHAPTER 5:
+lists - sequences of objects [] elements ex: ["paul","George", "Jake", "Ryan", 3, 4, 2, 5]
+len() - gives length of sequence as integer
+.join
+.split
+ord() = ordinal character to number
+chr() = number to character
+.format() = allows you to insert variables into strings into {}
+format has <>^ align fill and {0:10} width and .2f (2 decimal places
+open(<filename>,"r or w" (read or write))
+.write(input)
+.read()
+.readlines()
+.readline()
+
+CHAPTER 6:
+Scopes - functions only being oriented to their parameters
+def <name>(<parameters>):
+    <body>
+
+
+
+
+CHAPTER 7:
+if <condition>:
+    <body>
+less than: <
+Less than equal: <=
+greater than: >
+greater than equal: >=
+equality: ==
+not equal !=
+
+and statements:
+bool on left(p) and right and returns a bool(q)
+Properties(truth table):
+given a p and a q what's the output of p and q
+T and F = F
+F and T = F
+F and F = F
+T and T = T
+Can have as many as you want
+
+
+
+New Datatype: bool, boolean
+-primitive datatype
+-Can only be (T) or (F)
+
+True or false = values
+EX) x = True
+
+try:
+except:
+catch those errors
+
+CHAPTER 8:
+While <condition>:
+    <body>
+
+
+    what_to_write = "{} {} {:.2f}".format(first_name_write, last_name_write, added_nums)
