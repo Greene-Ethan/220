@@ -2,7 +2,7 @@
 Name: Ethan Greene
 hw8.py
 
-Problem:
+Problem: Getting better at manipulating lists and using if then statements
 
 Certification of Authenticity:
 I certify that this assignment is entirely my own work.
