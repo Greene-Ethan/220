@@ -25,6 +25,9 @@ def main():
                 my_door.close("red","Closed")
             elif my_door.get_label() == "Closed":
                 my_door.open("white","Open")
+
+
+
         check_click = win.getMouse()
 
 
