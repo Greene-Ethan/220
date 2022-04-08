@@ -1,4 +1,4 @@
-from graphics import Circle, Line
+from graphics import * #Circle, Line
 
 
 class Face:
@@ -31,3 +31,4 @@ class Face:
 
     def wink(self):
         pass
+
