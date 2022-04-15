@@ -2,7 +2,7 @@
 Name: Ethan Greene
 sales_person.py
 
-Problem: creating a button object
+Problem: creating a sales person
 
 Certification of Authenticity:
 I certify that this assignment is entirely my own work.
